@@ -3,7 +3,7 @@
 # IPAddress_Log.py
 # created by mahemys; 2021.04.04
 # !perfect, but works!
-# GNU-GPL; no license; free to use!
+# MIT License; no license; free to use!
 # update 2021-04-04; initial review
 #
 #------------------------------------------------------------
